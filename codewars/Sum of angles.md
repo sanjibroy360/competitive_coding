@@ -1,4 +1,4 @@
-### Sum of angles
+### Sum of angles [7 kyu]
 
 #### Answer -
 
