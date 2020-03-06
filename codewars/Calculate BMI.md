@@ -1,4 +1,6 @@
 ### Calculate BMI [8 kyu]
+
+### Answer - 
 ```js
 
 function bmi(weight, height) {
